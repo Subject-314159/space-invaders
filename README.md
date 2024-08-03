@@ -2,7 +2,7 @@
 
 Launching your first rocket exploits your location. Enemies come crashing down from the skies to infiltrate your base. One solid wall around your factory was sufficient to keep the locals out, but that will no longer work for our new friends.
 
-!(https://imgur.com/a/A802lmG)
+![Invasion concept](https://i.imgur.com/veAedxd.mp4)
 
 # This mod is for you
 
