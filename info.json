@@ -1,0 +1,11 @@
+{
+  "name": "space-invaders",
+  "version": "0.1.0",
+  "title": "Space Invaders",
+  "author": "Subject31415",
+  "factorio_version": "1.1",
+  "dependencies": [
+    "base >= 1.1"
+  ],
+  "description": "All your base are belong to us. Adds new humanoid enemies that enter the planet from orbit and crash land inside your base."
+}
