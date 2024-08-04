@@ -11,9 +11,17 @@ Launching your first rocket exploits your location. Enemies come crashing down f
 
 # This mod is not for you
 
--   If you do not launch any rockets
+-   If you do not launch any rockets (though you can use `/invade` to manually start the invasions)
 -   If you don't like to play with enemies
 
 # Known issues
 
-This mod is in early development stage, yet functional and quite bug free. Please report any bugs or submit new ideas on the discussion page!
+This mod is in early development stage, yet functional and quite bug free. Known areas of improvement:
+
+-   Enemies spawned inside a collision box might get stuck
+-   Consecutive crashing rockets may destroy earlier crashed rockets
+-   Crashed rockets might not be destructible
+-   Entry angle of the rocket is slightly off
+-   Enemies need to be balanced
+
+Please report any bugs or submit new ideas on the discussion page!
