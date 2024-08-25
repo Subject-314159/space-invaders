@@ -14,6 +14,8 @@ Launching your first rocket exploits your location. Enemies come crashing down f
 -   If you do not launch any rockets (though you can use `/invade` to manually start the invasions)
 -   If you don't like to play with enemies
 
+---
+
 # Known issues
 
 This mod is in early development stage, yet functional and quite bug free. Known areas of improvement:
@@ -24,4 +26,12 @@ This mod is in early development stage, yet functional and quite bug free. Known
 -   Entry angle of the rocket is slightly off
 -   Enemies need to be balanced
 
-Please report any bugs or submit new ideas on the discussion page!
+# Roadmap
+
+-   Solve known issues
+
+# Collaborations welcome
+
+-   Start a discussion with your ideas
+-   Open a pull request on Github
+-   Report issues under discussions
